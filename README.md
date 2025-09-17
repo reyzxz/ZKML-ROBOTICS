@@ -3,8 +3,6 @@
 Zero-Knowledge + Robotics + AI playground 🚀  
 Prove and verify robot commands & navigation without revealing the AI model or sensor data.
 
----
-
 ## ✨ Features
 - **Circuits**: zk-SNARK/zk-STARK circuits for robot commands & navigation.
 - **Proofs**: Generate & verify proofs for AI-driven robot actions.
@@ -12,8 +10,6 @@ Prove and verify robot commands & navigation without revealing the AI model or s
 - **Examples**: Simple robot movement, path planning demos.
 - **Benchmarks**: Measure runtime & proof size.
 - **Docs**: Architecture overview and ZK + Robotics + AI concepts.
-
----
 
 ## 📂 Repository Layout
 ZKML-ROBOTICS/
@@ -29,44 +25,17 @@ ZKML-ROBOTICS/
 ├─ README.md
 └─ LICENSE
 
----
-
 ## 🚀 Quickstart
-
 ### 1. Install dependencies
-- [Rust](https://www.rust-lang.org/tools/install) (stable toolchain)
-- [Circom](https://docs.circom.io/getting-started/installation/)
-- Node.js & npm/yarn (optional, for circuits tooling)
+- Rust (stable toolchain)
+- Circom
+- Node.js & npm/yarn (optional)
 - Python 3 (for benchmarks)
 
-### 2. Build project
+### 2. Build & run project
 ```bash
 cargo build
 cargo test
+./scripts/compile_circuits.sh
 cd examples/simple_move
 ./run_demo.sh
-
-## 📖 Documentation
-
-docs/architecture.md – System design
-
-docs/getting_started.md – Step-by-step guide
-
-docs/zkrobot_overview.md – ZK + Robotics + AI background
-
-## 🛠️ Roadmap
-
-Path planning circuit improvements
-
-More robot demos (swarm coordination, DJ robot)
-
-Benchmarks on real-world robot datasets
-
-## 🤝 Contributing
-
-PRs and issues are welcome! Please open a discussion before major changes.
-See LICENSE for details.
-
-## 📜 License
-
-MIT License © 2025
