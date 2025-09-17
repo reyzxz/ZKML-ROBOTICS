@@ -29,3 +29,28 @@ ZKML-ROBOTICS/
 ├─ Cargo.toml                    # Rust config
 ├─ README.md
 └─ LICENSE
+```
+
+## 📖 Documentation
+docs/architecture.md – System design
+
+docs/getting_started.md – Step-by-step guide
+
+docs/zkrobot_overview.md – ZK + Robotics + AI background
+
+## 🛠️ Roadmap
+
+Path planning circuit improvements
+
+More robot demos (swarm coordination, DJ robot)
+
+Benchmarks on real-world robot datasets
+
+## 🤝 Contributing
+
+PRs & issues welcome. Open discussion for major changes.
+See LICENSE for details.
+
+## 📜 License
+
+MIT License © 2025
