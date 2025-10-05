@@ -1,6 +1,4 @@
-![CI](https://github.com/username/ZKML-ROBOTICS/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Crates.io](https://img.shields.io/crates/v/zkml_robotics)
+![ZKML Logo](https://github.com/username/ZKML-ROBOTICS/raw/main/assets/logo.png)
 
 # ZKML-ROBOTICS
 
