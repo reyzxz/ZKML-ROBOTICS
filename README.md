@@ -1,6 +1,4 @@
-![ZK Example](https://upload.wikimedia.org/wikipedia/commons/5/59/Zero-Knowledge_Proof.png)
-
-# ZKML-ROBOTICS
+<h1 style="color:#FF69B4">ZKML-ROBOTICS</h1>
 
 Zero-Knowledge + Robotics + AI playground 🚀  
 Prove and verify robot commands & navigation without revealing the AI model or sensor data.
