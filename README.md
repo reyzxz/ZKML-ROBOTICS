@@ -1,4 +1,4 @@
-![ZKML Logo](https://github.com/username/ZKML-ROBOTICS/raw/main/assets/logo.png)
+![ZK Example](https://upload.wikimedia.org/wikipedia/commons/5/59/Zero-Knowledge_Proof.png)
 
 # ZKML-ROBOTICS
 
